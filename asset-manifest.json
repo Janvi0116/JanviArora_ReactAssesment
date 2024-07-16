@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JanviArora_ReactAssesment/static/css/main.1edfae4e.css",
+    "main.js": "/JanviArora_ReactAssesment/static/js/main.a4c29c7a.js",
+    "static/js/453.13590547.chunk.js": "/JanviArora_ReactAssesment/static/js/453.13590547.chunk.js",
+    "index.html": "/JanviArora_ReactAssesment/index.html",
+    "main.1edfae4e.css.map": "/JanviArora_ReactAssesment/static/css/main.1edfae4e.css.map",
+    "main.a4c29c7a.js.map": "/JanviArora_ReactAssesment/static/js/main.a4c29c7a.js.map",
+    "453.13590547.chunk.js.map": "/JanviArora_ReactAssesment/static/js/453.13590547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1edfae4e.css",
+    "static/js/main.a4c29c7a.js"
+  ]
+}
